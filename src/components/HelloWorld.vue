@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Bu benim ilk sitem</h1>
+    <h1>Fatihhh beni seviyor <3</h1>
   </div>
 </template>
 
